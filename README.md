@@ -1,30 +1,56 @@
-<h1 align="center">Hi 
- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
- I'm Krishna Kumar
- <img src='https://media.giphy.com/media/l0Iyk1HsfD3mMkiEE/giphy.gif' width="35"/>
- </h1>
-<h3 align="center">An aspiring and passionate full stack developer</h3>
-
-- 🌱 I’m currently learning Full Stack Web Development
-
-- 💬 Ask me about HTML,CSS, JavaScript, React
-- Want to apply what I have learned to build something that'll help people.
-
-- 📫 How to reach me krishna952543@gmail.com
-- 📫 Portfolio https://krishna9525.github.io
-
-<h3 align="left"><i>Connect with me via:</i></h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/krishna-kumar-6773761b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eswarsai19" height="30" width="40" />
-<h3 align="left"><i>Languages and Tools:</i></h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<!-- <h3 align="center">
-<img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://www.pskitservices.com/wp-content/uploads/2020/10/homepage-banner-animated-2.gif" style="width: 300px; display: inline; opacity: 1;">
-</h3> -->
-<h2><i>GitHub Stats</i></h2>
-
+### Hi there, I'm Ujjawal Kumar 👋  
+<a href="https://ujjawal0203.github.io/">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
+</a>
+<a title="ujjawal0203.jk@gmail.com" href="mailto:ujjawal0203.jk@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
+</a>
+<a href="https://www.linkedin.com/in/ujjawal-kumar-086691237/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ujjawal-kumar-086691237/" />
+</a>
+---
+## I'm a Software Engineer and Life Long Learner!
+- 🌱 I’m currently Learning MERN Stack at Masai School.
+- 🌏 Looking to solve real-world problems.
+- 💻 I'm passionate about making creative websites.
+- ⚡ Fact: I love to make videos on youtube.
+- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra Ui, Npm.
+ 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+---
+<!----------------------------------- Tech Stack Section ------------------------------------>
+<h2><i>Tech Stack</i></h2>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna9525&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna9525&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+ <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
+<br>
+---
+### Desktop Environment:
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
+
+---
+
+  <p><img align="left" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ujjawal0203&show_icons=true&locale=en&layout=compact" alt="saikhmirsat" /></p>
+  <p><img align="left" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ujjawal0203&show_icons=true&locale=en&layout=compact" alt="ujjawal" /></p>
+
+  <p>&nbsp;<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=Ujjawal0203&show_icons=true&locale=en" alt="saikhmirsat" /></p>
+<p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjawal0203&" alt="saikhmirsat" /></p>
+  <p>&nbsp;<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=Ujjawal0203&show_icons=true&locale=en" alt="ujjawal" /></p>
+<p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjawal0203&" alt="ujjawal" /></p>
