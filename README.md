@@ -1,29 +1,27 @@
-![](https://github.com/mdsa97087/pandit0305/blob/main/Pandit%20Gangadhar.png)
+![](https://github.com/krishna9525/pandit0305/blob/main/Pandit%20Gangadhar.png)
 
-<h1 align="center">Hi 👋, I'm Md Shamshad Alam</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
+<h3 align="center">A passionate Full Stack Web developer from Masai School</h3>
 <img src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Mern+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
 <img align = "right" alt ="coding" width="350" height="280" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pandit0305&label=Profile%20views&color=0e75b6&style=flat" alt="alam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pandit0305&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 <!-- - 📝 I regularly write articles on <a target= "_blank" href ="http://www.itstudyfree.blogspot.com/">My Blog</a> -->
 
-- 📫 How to reach me **mdsa97087@gmail.com**
+- 📫 How to reach me **krishna952543@gmail.com**
 
-- 📄 Know about my experiences <a target = "_blank" href = "https://drive.google.com/file/d/13NHazaW-l19ioTSL0DOBTe-0zq02p78U/view
+- 📄 Know about my experiences <a target = "_blank" href = "https://drive.google.com/file/d/1JrnEepqiZdggkKZ4_myzot46fxuWq_W6/view?usp=share_link
 ">My Resume</a>
 
-- ⚡ Fun fact **I am funny😊**
+<!-- - ⚡ Fun fact **I am funny😊** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-68379a254/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamshad" height="30" width="40" /></a>
-<!-- 
-<a href="https://www.hackerrank.com/@panditgangadhar1" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shamshad" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/krishna-kumar-6773761b5/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,22 +45,22 @@
 # 📊 GitHub Stats:
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsa97087&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mdsa97087" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsa97087&show_icons=true&locale=en&layout=compact&theme=dracula" alt="abc" />
 </p>
 
-<p>&nbsp;<img align="center" margin-Top="5px" src="https://github-readme-stats.vercel.app/api?username=mdsa97087&show_icons=true&locale=en&theme=dracula" alt="mdsa97087" /></p>
+<p>&nbsp;<img align="center" margin-Top="5px" src="https://github-readme-stats.vercel.app/api?username=krishna9525&show_icons=true&locale=en&theme=dracula" alt="mdsa97087" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsa97087&theme=dracula" alt="mdsa97087" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna9525&theme=dracula" alt="mdsa97087" /></p>
 
 <!-- <a href="https://github.com/mdsa97087/github-readme-activity-graph"><img alt="Shamshad Shaikh's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mdsa97087&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 <p align="center">
-<a href="https://github.com/mdsa97087"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsa97087&theme=dracula" />
+<a href="https://github.com/krishna9525"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna9525&theme=dracula" />
 </span></a> </p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mdsa97087&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=krishna9525&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
