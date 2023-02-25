@@ -48,11 +48,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsa97087&show_icons=true&locale=en&layout=compact&theme=dracula" alt="abc" />
 </p>
 
-<p>&nbsp;<img align="center" margin-Top="5px" src="https://github-readme-stats.vercel.app/api?username=krishna9525&show_icons=true&locale=en&theme=dracula" alt="mdsa97087" /></p>
+<p>&nbsp;<img align="center" margin-Top="5px" src="https://github-readme-stats.vercel.app/api?username=krishna9525&show_icons=true&locale=en&theme=dracula" alt="krishna9525" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna9525&theme=dracula" alt="mdsa97087" /></p>
 
-<!-- <a href="https://github.com/mdsa97087/github-readme-activity-graph"><img alt="Shamshad Shaikh's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mdsa97087&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 <p align="center">
 <a href="https://github.com/krishna9525"><span>
